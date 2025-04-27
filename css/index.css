@@ -1,0 +1,89 @@
+@font-face {
+  font-family: "LINE Seed Sans fallback";
+  src: local("LINE Seed Sans");
+  font-style: normal;
+  font-weight: 100;
+  size-adjust: 100.9419%;
+  ascent-override: 104.0202%;
+  descent-override: 27.1443%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'LINE Seed Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src: url('../fonts/LINESeedSans_W_Th.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: "LINE Seed Sans fallback";
+  src: local("LINE Seed Sans");
+  font-style: normal;
+  font-weight: 400;
+  size-adjust: 105.6526%;
+  ascent-override: 99.3823%;
+  descent-override: 25.9341%;
+  line-gap-override: 0%;
+}
+@font-face {
+    font-family: 'LINE Seed Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/LINESeedSans_W_Rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: "LINE Seed Sans fallback";
+  src: local("LINE Seed Sans");
+  font-style: normal;
+  font-weight: 600;
+  size-adjust: 110.1389%;
+  ascent-override: 95.3342%;
+  descent-override: 24.8777%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'LINE Seed Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../fonts/LINESeedSans_W_Bd.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: "LINE Seed Sans fallback";
+  src: local("LINE Seed Sans");
+  font-style: normal;
+  font-weight: 800;
+  size-adjust: 117.5413%;
+  ascent-override: 89.3303%;
+  descent-override: 23.311%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'LINE Seed Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('../fonts/LINESeedSans_W_He.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: "LINE Seed Sans fallback";
+  src: local("LINE Seed Sans");
+  font-style: normal;
+  font-weight: 900;
+  size-adjust: 114.1766%;
+  ascent-override: 91.9628%;
+  descent-override: 23.9979%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'LINE Seed Sans';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('../fonts/LINESeedSans_W_XBd.woff2') format('woff2');
+}
